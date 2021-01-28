@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@babel/runtime-corejs3": "^7.11.2",
-    "file-loader": "6.1.0",
+    "file-loader": "6.2.0",
     "juce-blueprint": "file:../../../../../3rdParty/blueprint/packages/juce-blueprint",
     "react": "^16.13.1"
   },

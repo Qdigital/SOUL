@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/runtime-corejs3": "^7.11.2",
+    "@babel/runtime-corejs3": "^7.12.5",
     "file-loader": "6.1.0",
     "juce-blueprint": "file:../../../../../3rdParty/blueprint/packages/juce-blueprint",
     "react": "^16.13.1"
